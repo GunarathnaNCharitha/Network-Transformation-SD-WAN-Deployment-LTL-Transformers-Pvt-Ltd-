@@ -5,16 +5,17 @@
 
 🔗 [LTL Transformers Website](https://www.ltlt.lk)  
 
+**Note: All configs, IPs, and diagrams in this repo are **sanitized**. No customer data is exposed**. 
 ---
 
-## 🌍 Project Overview
+## Project Overview
 As Lead Engineer, I directed the **end-to-end redesign of the enterprise network** for **LTL Transformers (Pvt) Ltd**, covering HQ and multiple branch/factory sites.  
 
 The initiative replaced legacy systems with **FortiGate NGFWs, SD-WAN, BGP-based redundant VPNs, and Azure integration**, ensuring secure, resilient, and future-proof connectivity across the group.  
 
 ---
 
-## 🎯 Business Challenges
+## Business Challenges
 - Legacy WAN with **single points of failure** and limited scalability.  
 - Lack of **resilient VPN connectivity** between sites and HQ.  
 - Inconsistent management of firewalls across multiple branches.  
@@ -23,7 +24,7 @@ The initiative replaced legacy systems with **FortiGate NGFWs, SD-WAN, BGP-based
 
 ---
 
-## 🛠️ Solution Implemented
+## Solution Implemented
 A **modernized hybrid WAN and security architecture** was deployed:  
 - **FortiGate NGFW clusters** installed at HQ and factories for redundancy.  
 - **SD-WAN overlay** for intelligent application-aware path selection.  
@@ -34,16 +35,16 @@ A **modernized hybrid WAN and security architecture** was deployed:
 
 ---
 
-## 📊 Outcomes & Benefits
-- ⚡ **Resilient VPN architecture** with BGP dynamic failover.  
-- 🔒 **Unified firewall deployments** across all group sites.  
-- 🌐 **Hybrid WAN** with SD-WAN optimization for cloud and on-prem apps.  
-- 🕵️ **Enhanced monitoring and visibility** across the enterprise.  
-- 📈 **Future-ready design** supporting new technologies and business growth.  
+## Outcomes & Benefits
+- **Resilient VPN architecture** with BGP dynamic failover.  
+- **Unified firewall deployments** across all group sites.  
+- **Hybrid WAN** with SD-WAN optimization for cloud and on-prem apps.  
+- **Enhanced monitoring and visibility** across the enterprise.  
+- **Future-ready design** supporting new technologies and business growth.  
 
 ---
 
-## 📈 My Key Contributions
+## My Key Contributions
 - Designed the **new WAN architecture** with BGP and SD-WAN.  
 - Implemented **redundant VPN tunnels** with dynamic routing.  
 - Deployed and managed **FortiGate NGFW clusters** across HQ and branches.  
@@ -52,5 +53,3 @@ A **modernized hybrid WAN and security architecture** was deployed:
 - Directed the **cutover and migration plan**, ensuring minimal downtime.  
 
 ---
-
-> ⚠️ **Note:** All configs and diagrams are sanitized. No sensitive customer data is shared.  
